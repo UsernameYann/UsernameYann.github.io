@@ -11,8 +11,8 @@
       "fontSize": 16,
       "textPos": "bottom",
       "bgType": "image",
-      "bgValue": "assets/image-01.jpg",
-      "pixelMode": "normal",
+      "bgValue": "assets/image-01.webp",
+      "pixelMode": "pixel",
       "collapsed": true,
       "textColor": "#ffffff",
       "url": ""
@@ -97,7 +97,7 @@
       "bgType": "image",
       "bgValue": "assets/image-07.png",
       "pixelMode": "normal",
-      "collapsed": false,
+      "collapsed": true,
       "textColor": "#ffffff",
       "url": "https://usernameyann.github.io/Sunflower-Land-Widget-for-iOS/"
     },
@@ -144,6 +144,20 @@
       "url": ""
     },
     {
+      "name": "land",
+      "text": "Visit my land",
+      "size": "4x4",
+      "fontFamily": "system-ui",
+      "fontSize": 16,
+      "textPos": "bottom",
+      "bgType": "image",
+      "bgValue": "assets/image-11.png",
+      "pixelMode": "normal",
+      "collapsed": false,
+      "textColor": "#ffffff",
+      "url": "https://sunflower-land.com/play/#/visit/6826774918530594"
+    },
+    {
       "name": "Map2",
       "text": "",
       "size": "4x1",
@@ -151,9 +165,9 @@
       "fontSize": 16,
       "textPos": "bottom",
       "bgType": "image",
-      "bgValue": "assets/image-11.png",
+      "bgValue": "assets/image-12.png",
       "pixelMode": "pixel",
-      "collapsed": false,
+      "collapsed": true,
       "textColor": "#ffffff",
       "url": ""
     },
@@ -165,7 +179,7 @@
       "fontSize": 16,
       "textPos": "bottom",
       "bgType": "image",
-      "bgValue": "assets/image-12.png",
+      "bgValue": "assets/image-13.png",
       "pixelMode": "normal",
       "collapsed": true,
       "textColor": "#111111",
@@ -179,9 +193,9 @@
       "fontSize": 16,
       "textPos": "middle",
       "bgType": "image",
-      "bgValue": "assets/image-13.png",
+      "bgValue": "assets/image-14.png",
       "pixelMode": "pixel",
-      "collapsed": false,
+      "collapsed": true,
       "textColor": "#ffffff",
       "url": ""
     }
