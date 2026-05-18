@@ -11,10 +11,10 @@
       "fontSize": 16,
       "textPos": "bottom",
       "bgType": "image",
-      "bgValue": "assets/image-01.png",
+      "bgValue": "assets/image-01.webp",
       "pixelMode": "pixel",
-      "collapsed": false,
-      "textColor": "#111111",
+      "collapsed": true,
+      "textColor": "#ffffff",
       "url": ""
     },
     {
@@ -172,34 +172,6 @@
       "url": ""
     },
     {
-      "name": "pfp-bumpkin",
-      "text": "pfp-bumpkin",
-      "size": "4x3",
-      "fontFamily": "system-ui",
-      "fontSize": 16,
-      "textPos": "bottom",
-      "bgType": "image",
-      "bgValue": "assets/image-13.png",
-      "pixelMode": "normal",
-      "collapsed": false,
-      "textColor": "#111111",
-      "url": "https://usernameyann.github.io/pfp-bumpkin/"
-    },
-    {
-      "name": "Bento 16",
-      "text": "",
-      "size": "4x1",
-      "fontFamily": "system-ui",
-      "fontSize": 16,
-      "textPos": "middle",
-      "bgType": "image",
-      "bgValue": "assets/image-06.png",
-      "pixelMode": "pixel",
-      "collapsed": false,
-      "textColor": "#ffffff",
-      "url": ""
-    },
-    {
       "name": "bentoB",
       "text": "Builder Bento",
       "size": "4x3",
@@ -207,11 +179,11 @@
       "fontSize": 16,
       "textPos": "bottom",
       "bgType": "image",
-      "bgValue": "assets/image-14.png",
+      "bgValue": "assets/image-13.png",
       "pixelMode": "normal",
       "collapsed": true,
       "textColor": "#111111",
-      "url": ""
+      "url": "https://usernameyann.github.io/builder-bento/"
     },
     {
       "name": "Map3",
@@ -221,7 +193,7 @@
       "fontSize": 16,
       "textPos": "middle",
       "bgType": "image",
-      "bgValue": "assets/image-15.png",
+      "bgValue": "assets/image-14.png",
       "pixelMode": "pixel",
       "collapsed": true,
       "textColor": "#ffffff",
