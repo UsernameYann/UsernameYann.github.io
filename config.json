@@ -194,7 +194,7 @@
       "textPos": "middle",
       "bgType": "image",
       "bgValue": "assets/image-06.png",
-      "pixelMode": "normal",
+      "pixelMode": "pixel",
       "collapsed": false,
       "textColor": "#ffffff",
       "url": ""
